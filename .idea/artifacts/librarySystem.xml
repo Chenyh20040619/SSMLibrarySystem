@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="LibrarySystem">
+    <output-path>$PROJECT_DIR$/out/artifacts/LibrarySystem</output-path>
+    <root id="archive" name="LibrarySystem.war">
+      <element id="artifact" artifact-name="SSMLibrarySystem:war exploded" />
+    </root>
+  </artifact>
+</component>
